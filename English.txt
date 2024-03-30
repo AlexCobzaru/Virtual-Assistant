@@ -1,0 +1,161 @@
+en
+
+#---------------------------------------------------------#
+
+
+hey assistant
+good morning assistant
+good afternoon assistant
+good evening assistant
+hello assistant
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+months
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+laugh
+the day after tomorrow
+tomorrow
+very well
+Hi
+bad
+now
+yet
+I'm getting
+
+
+
+
+
+
+
+
+
+
+
+You have nothing planned for this day.
+You have
+ events on this day.
+You have an event on this day.
+in the morning
+afternoon
+ to
+today
+today
+following
+upcoming
+de
+rock
+scissors
+paper
+What do you choose?
+I choose 
+Do you want to play again?
+no
+I enjoyed it.
+push-ups
+crunches
+pull-ups
+Welcome to the training program.
+Do
+Say done when you finish
+ready
+Do you want to continue?
+You did:
+It's time for training. Do you want to do it?
+I understand
+Good morning
+Hello
+Good evening
+Who am I talking to?
+What language would you like to use?
+How can I help you?
+turn off the computer
+turn off the computer
+please shut down the computer
+Are you sure you want to shut down your computer?
+I will think about it
+Okay, I won't shut down the computer.
+Goodbye, have a nice morning.
+Goodbye, have a nice day.
+Goodbye, have a nice evening.
+Goodbye and good night.
+what I have
+I have plans
+I'm busy
+what plans do i have
+what program do I have
+I could not understand, please repeat.
+remember
+write it down
+What would you like me to write down?
+I noted.
+hang up
+stops
+
+
+
+
+
+call me another way
+
+
+i'm not
+i am not
+don't call me
+my name is not
+I will remember
+russian roulette
+You will take note
+with nothing
+Okay, I'm here when you need me.
+
+rock paper scissors
+how do you feel
+I feel good, thanks for the question.
+who am I
+what is my name
+what's my name
+You are
+thanks
+With pleasure
+what's your name
+what's your name
+who are you
+who am I talking to
+My name is Tania and I am your virtual assistant
+what time
+what time is it
+as long as his watch
+workout
+what date is today
+what day is today
+as we are today
+search on web
+What do you want me to look for?
+That's what I found about
+search for location
+What is the location?
+goodbye
+get lost
+bye assistant
+Goodbye, next time
+listen ...
+I apologize but I didn't understand. Please repeat.
+The changes will take effect after the program is reopened. Do you want to restart the program?
+what is
+help menu
